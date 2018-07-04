@@ -50,6 +50,7 @@ permalink: /team/
   </td>
   </tr>
  <tr>
+  <td markdown="span"> <img src="{{ "/assets/photo_aks.jpg" | relative_url }}" width="200px" /> </td>
   <td markdown="span"><b>Osipova Aksiniya -Bsc student</b> <br> Aksiniya is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/CV_Osipova_Aksiniya.pdf" | relative_url }}) | E-mail: [a.osipova@intbio.org](mailto:a.osipova@post.bio.msu.ru)
   </td>
