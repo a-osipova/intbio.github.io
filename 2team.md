@@ -49,5 +49,11 @@ permalink: /team/
 [Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [kniazeva.anastasiia.2015@post.bio.msu.ru](mailto:kniazeva.anastasiia.2015@post.bio.msu.ru) 
   </td>
   </tr>
+ <tr>
+  <td markdown="span"><b>Osipova Aksiniya -Bsc student</b> <br> Aksiniya is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/CV_Osipova_Aksiniya.pdf" | relative_url }}) | E-mail: [a.osipova@intbio.org](mailto:a.osipova@post.bio.msu.ru)
+  </td>
+ </tr>
+ <tr>
 </tbody>
 </table>
